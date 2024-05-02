@@ -3,6 +3,14 @@ Esta es una plantilla para entrega de practicas para que tengan el mismo formato
 
 **El directorio "practica-0" es utilizado como prueba para que puedan visualizar como deben de quedar cada proyecto.**
 
+## ¿Como clonar este repositorio y agregar personas con acceso al mismo (Correctores, Profesores)?
+1. Entrar al siguiente [enlace](https://github.com/pucmm-eict/icc-352-template)
+2. Seleccionar el boton "Use this template" en la parte superior derecha <br> ![img.png](resources/clone_repo_1.png)
+3. Configurar el nombre del repositorio, descripcion y muy importante que se configure como "**PRIVADO**" <br> ![img.png](resources/clone_repo_2.png)
+4. Una vez creado, dirigirse a "Settings" > "Collaboratos" > "Add people" <br> ![img.png](resources/clone_repo_3.png)
+5. Agregamos los usuarios del "**corrector**" y el "**profesor**" de la materia en cuestión y luego enviamos dicha invitación.
+6. Notificar via **Microsoft Teams** o **Mensaje de Correo** a los mismos para que tengan la notificacion de que han sido agregados.
+
 ## ¿Como crear un proyecto en una "practica-n"?
 ### Intellij-IDEA
 1. Entrar en la ventana de nuevo proyecto y seguir el siguiente paso: <br>![new_project_1](./resources/new_project_1.png)
