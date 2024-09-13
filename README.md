@@ -9,6 +9,8 @@ Esta es una plantilla para entrega de practicas para que tengan el mismo formato
 3. Configurar el nombre del repositorio, descripcion y muy importante que se configure como "**PRIVADO**" <br> ![img.png](resources/clone_repo_2.png)
 4. Una vez creado, dirigirse a "Settings" > "Collaboratos" > "Add people" <br> ![img.png](resources/clone_repo_3.png)
 5. Agregamos los usuarios del "**corrector**" y el "**profesor**" de la materia en cuestión y luego enviamos dicha invitación.
+    1. Gustavo Henriquez -> "[guhex-pucmm](https://github.com/guhex-pucmm)"
+    2. Carlos Camacho -> "[vacax](https://github.com/vacax)"
 6. Notificar via **Microsoft Teams** o **Mensaje de Correo** a los mismos para que tengan la notificacion de que han sido agregados.
 
 ## ¿Como crear un proyecto en una "practica-n"?
