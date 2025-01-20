@@ -1,4 +1,4 @@
-# csti-1810-4833-template (Programación Web)
+# Programación Web
 Esta es una plantilla para entrega de practicas para que tengan el mismo formato en cuanto a código fuente.
 
 **El directorio "practica-0" es utilizado como prueba para que puedan visualizar como deben de quedar cada proyecto.**
