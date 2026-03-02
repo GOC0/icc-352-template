@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <link rel="stylesheet" href="Main.css">
+</head>
+<body>
+
+<div class="container">
+    <h2 id="product-n">Carrito de Compras</h2>
+    <h3 id="login"><a href="Login.html">Login</a></h3>
+    <nav>
+        <a href="productos.html">Comprar</a>
+        <a href="#">Ventas Realizadas</a>
+        <a href="#">Administrar Producto</a>
+        <a id="carrito-link" href="compra.html">Carrito (0)</a>
+    </nav>
+
+    <h1>Productos en el Carrito</h1>
+
+    <div id="carrito-vacio" style="display: none;">
+        <p>No hay productos en el carrito.</p>
+        <a href="productos.html">Volver a la tienda</a>
+    </div>
+
+    <div id="carrito-contenido">
+        <table>
+            <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio Unitario</th>
+                <th>Cantidad</th>
+                <th>Subtotal</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- Los productos del carrito se cargan dinámicamente -->
+            </tbody>
+        </table>
+
+        <div class="total-section">
+            <h2>Total: $<span id="total-precio">0.00</span></h2>
+            <button id="btn-procesar-compra">Procesar Compra</button>
+        </div>
+    </div>
+</div>
+
+<script src="compra.js"></script>
+</body>
+</html>

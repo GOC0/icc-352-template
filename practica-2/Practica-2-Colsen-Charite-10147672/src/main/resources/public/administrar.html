@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrar Productos</title>
+    <link rel="stylesheet" href="Main.css">
+</head>
+<body>
+
+<div class="container">
+    <h2 id="product-n">Administrar Productos</h2>
+    <h3 id="login"><a href="Login.html">Login</a></h3>
+    <nav>
+        <a href="productos.html">Comprar</a>
+        <a href="ventas.html">Ventas Realizadas</a>
+        <a href="administrar.html">Administrar Producto</a>
+        <a id="carrito-link" href="compra.html">Carrito (0)</a>
+    </nav>
+
+    <h1>Gestión de Productos</h1>
+    <div class="admin-section">
+        <h2>Agregar Nuevo Producto</h2>
+        <form id="form-agregar">
+            <input type="text" id="nuevo-nombre" placeholder="Nombre del producto" required>
+            <input type="number" id="nuevo-precio" placeholder="Precio" step="0.01" min="0" required>
+            <button type="submit">Agregar Producto</button>
+        </form>
+    </div>
+
+    <div class="admin-section">
+        <h2>Productos Existentes</h2>
+        <table>
+            <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Acción</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- Los productos se cargan dinámicamente -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>

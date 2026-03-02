@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fafb08b-cb64-48e6-b392-58e846a137bd" name="Changes" comment="practica-3" />
+    <list default="true" id="3fafb08b-cb64-48e6-b392-58e846a137bd" name="Changes" comment="practica-1">
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/data/test.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/data/test.trace.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/java/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/java/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/java/Venta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/P.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/administrar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/compra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/compra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/productos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/ventas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica-2/Practica-2-Colsen-Charite-10147672/src/main/resources/public/ventas.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,12 +96,14 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/coloc/Documents/web/practica-3",
+    "last_opened_file_path": "C:/Users/coloc/Documents/web/practica-2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\coloc\Documents\web\practica-2" />
+      <recent name="C:\Users\coloc\Documents\web\practica-1" />
       <recent name="C:\Users\coloc\Documents\web\practica-3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772467304536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="practica-3">
+      <option name="closed" value="true" />
+      <created>1772467790611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772467790611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="practica-1">
+      <option name="closed" value="true" />
+      <created>1772468053731</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772468053731</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practica-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="practica-3" />
+    <MESSAGE value="practica-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="practica-1" />
   </component>
 </project>
